@@ -11,4 +11,11 @@ Just a simple game server to storage game user data, use with Redis
 
     这里使用的是JetBrains GoLand.其它的按个人喜好
 	
-	
+
+# 命令行使用的环境变量的设置
+
+## GOPATH
+
+## GOBIN
+
+# 使用go test来测试
