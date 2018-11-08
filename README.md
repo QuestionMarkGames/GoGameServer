@@ -14,8 +14,19 @@ Just a simple game server to storage game user data, use with Redis
 
 # 命令行使用的环境变量的设置
 
-## GOPATH
+### GOPATH
 
-## GOBIN
+### GOBIN
 
 # 使用go test来测试
+
+# 使用redigo
+
+## 安装redigo
+
+     go get github.com/gomodule/redigo/redis
+	 
+## redigo文档地址
+
+    https://godoc.org/github.com/garyburd/redigo/redis
+	 
